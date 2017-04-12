@@ -1,0 +1,72 @@
+﻿body{
+	background-color:beige;
+	margin:0px;
+}
+
+header{
+	background-color:beige;
+}
+
+section{
+	font-size: 1em;
+	color: blue;
+	text-align: center;
+	font-family:sans-serif;
+}
+
+article{
+	font-size: 1em;
+	font-family:sans-serif;
+}
+
+footer{
+	text-align:center;
+}
+
+p{
+	color: BLACK;
+	text-align:justify;
+}
+
+h1{
+	font-size: 1.6em;
+	color: blue;
+	text-align: center;
+	font-family:sans-serif;
+}
+
+#top{
+	font-family:sans-serif;
+	text-align: center;
+}
+#loja{
+	background-color: RED;
+	background-image:url(http://img.ibxk.com.br/2014/07/25/25102427831115.gif);
+	padding: 50px;
+	letter-spacing: .1em;
+	
+}
+
+#t{
+	border: black solid;	
+	padding: 10px;
+	width:100%;
+	list-style:none;	
+}
+#logo{
+	padding: 70px;
+
+}
+#t div{
+	width:600px;
+}
+
+#t li{
+	display: inline;
+	font-size: 1.6em;
+}
+
+.centro{
+	margin-left:auto;
+	margin-right:auto;
+}
